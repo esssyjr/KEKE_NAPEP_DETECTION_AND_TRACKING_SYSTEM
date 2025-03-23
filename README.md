@@ -25,6 +25,9 @@ The dataset consists of **84 annotated images**, sourced from **various location
 ## Dataset Link
 The dataset is publicly available on **Kaggle**:  
 📂 **[Keke Napep (Tricycle) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**  
+## Hugging Face Demo Link
+📂 **[Keke Napep (Tricycle) Huggung Face Demo](https://huggingface.co/spaces/esssyjr/KEKE_NAPEP_DETECTION)**  
+
 
 ## Future Improvements for dataset
 Future improvements include expanding the dataset to cover:  
