@@ -1,5 +1,5 @@
 # KEKE_NAPEP_DETECTION_AND_TRACKING_SYSTEM  
-
+![Image](https://github.com/user-attachments/assets/15dd6579-e843-4f8f-b1ed-3f4909abce0b)
 ## Overview  
 
 This project focuses on detecting and tracking **KEKE_NAPEP** (tricycles), a primary mode of public transportation in Nigeria. Built using **YOLOv8**, the system enables real-time identification, tracking, and analysis of Keke Napep in video streams. By integrating **object detection, tracking, and counting features**, this project serves as a foundation for various applications, including **traffic management, fleet monitoring, and urban mobility analysis**.  
