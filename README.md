@@ -89,7 +89,7 @@ Watch the tracking test video here:
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/naira-classification.git
+git clone https://github.com/esssyjr/KEKE_NAPEP_DETECTION_AND_TRACKING_SYSTEM.git
 cd naira-classification
 ```
 
@@ -103,7 +103,7 @@ pip install -r requirements.
 ```
 
 ## Step 3: Download the Dataset
-Download the dataset from **[Kaggle](https://www.kaggle.com/datasets/ismailismailtijjani/naira-nigerian-currency-dataset)** and extract it into the project directory.
+Download the dataset from **[Keke Napep (Tricycle) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**   and extract it into the project directory.
 
 ## Step 4: Run the Application
 Start the **Gradio** interface:
@@ -111,14 +111,14 @@ Start the **Gradio** interface:
 ``` sh
 python app.py
 ```
-The application will launch a web interface where you can **upload and classify Naira notes**.
+The application will launch a web interface where you can **upload and detect KEKE_NAPEP**.
 
 ## Step 5: Test with the Dataset
 To test the model:
 
 1. **Open the Gradio UI.**  
-2. **Upload an image** of a Naira note.  
-3. Click **"Predict"** to see the classification result.  
+2. **Upload an image** of a KEKE_NAPEP.  
+3. Click **"Submit"** to see the classification result.  
 
 ## Collaboration  
 
